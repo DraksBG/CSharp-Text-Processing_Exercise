@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\TextProcessExercise\T08. Letters Change Numbers\bin\Debug\netcoreapp3.1\T08. Letters Change Numbers.exe
+C:\Users\PC\source\repos\TextProcessExercise\T08. Letters Change Numbers\bin\Debug\netcoreapp3.1\T08. Letters Change Numbers.deps.json
+C:\Users\PC\source\repos\TextProcessExercise\T08. Letters Change Numbers\bin\Debug\netcoreapp3.1\T08. Letters Change Numbers.runtimeconfig.json
+C:\Users\PC\source\repos\TextProcessExercise\T08. Letters Change Numbers\bin\Debug\netcoreapp3.1\T08. Letters Change Numbers.runtimeconfig.dev.json
+C:\Users\PC\source\repos\TextProcessExercise\T08. Letters Change Numbers\bin\Debug\netcoreapp3.1\T08. Letters Change Numbers.dll
+C:\Users\PC\source\repos\TextProcessExercise\T08. Letters Change Numbers\bin\Debug\netcoreapp3.1\T08. Letters Change Numbers.pdb
+C:\Users\PC\source\repos\TextProcessExercise\T08. Letters Change Numbers\obj\Debug\netcoreapp3.1\T08. Letters Change Numbers.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\TextProcessExercise\T08. Letters Change Numbers\obj\Debug\netcoreapp3.1\T08. Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\TextProcessExercise\T08. Letters Change Numbers\obj\Debug\netcoreapp3.1\T08. Letters Change Numbers.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\TextProcessExercise\T08. Letters Change Numbers\obj\Debug\netcoreapp3.1\T08. Letters Change Numbers.AssemblyInfo.cs
+C:\Users\PC\source\repos\TextProcessExercise\T08. Letters Change Numbers\obj\Debug\netcoreapp3.1\T08. Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TextProcessExercise\T08. Letters Change Numbers\obj\Debug\netcoreapp3.1\T08. Letters Change Numbers.dll
+C:\Users\PC\source\repos\TextProcessExercise\T08. Letters Change Numbers\obj\Debug\netcoreapp3.1\T08. Letters Change Numbers.pdb
+C:\Users\PC\source\repos\TextProcessExercise\T08. Letters Change Numbers\obj\Debug\netcoreapp3.1\T08. Letters Change Numbers.genruntimeconfig.cache
